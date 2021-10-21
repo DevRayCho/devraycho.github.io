@@ -27,7 +27,11 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+<<<<<<< HEAD
 breadcrumbs              : true # true, false (default)
+=======
+breadcrumbs            : true # true, false (default)
+>>>>>>> bf9785f8b214836a949da2510fdda515b755aeec
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -104,7 +108,11 @@ analytics:
 author:
   name             : "Ray Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+<<<<<<< HEAD
   bio              : "Quant"
+=======
+  bio              : "Quant Blog"
+>>>>>>> bf9785f8b214836a949da2510fdda515b755aeec
   location         : "South Korea"
   email            :
   links:
@@ -291,4 +299,7 @@ defaults:
       show_date: true
 
 date_format: "%Y-%m-%d"
+<<<<<<< HEAD
 
+=======
+>>>>>>> bf9785f8b214836a949da2510fdda515b755aeec
