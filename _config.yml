@@ -104,11 +104,7 @@ analytics:
 author:
   name             : "Ray Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-<<<<<<< HEAD
   bio              : "Quant"
-=======
-  bio              : "Quant Blog"
->>>>>>> bf9785f8b214836a949da2510fdda515b755aeec
   location         : "South Korea"
   email            :
   links:
@@ -295,7 +291,3 @@ defaults:
       show_date: true
 
 date_format: "%Y-%m-%d"
-<<<<<<< HEAD
-
-=======
->>>>>>> bf9785f8b214836a949da2510fdda515b755aeec
